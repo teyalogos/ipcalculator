@@ -1,4 +1,4 @@
-__author__ = "Mateo Juan A. Llanes/Oboark"
+__author__ = "Thea Llanes/Oboark"
 import sys
 import socket
 import struct
